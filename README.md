@@ -1,55 +1,29 @@
 ---
 layout: home
-title: Stat 999
+title: "Stat 215a: Applied Statistics and Machine Learning"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 999
+  name: "Stat 215a: Applied Statistics and Machine Learning"
 ---
 
-# Short Title of Class
+# Stat 215a: Applied Statistics and Machine Learning
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-## Offerings
 
-[//]: # (Items below should be of the form [Semester YYYY](semester-year)
-
-[//]: # (Notably the paths should not have leading slashes in real sites.)
-
-1. [Spring 2023 (Quarto)](/stat999-quarto)
-1. [Fall 2024 (MyST)](/stat999-myst)
 
 ## Overview
 
-This is a GitHub Pages template based on Just the Class, developed for the purpose of quickly deploying course overview websites. Such websites link to previous course offerings, provide a summary of what the course is about, and may list learning goals and prerequisites. This paragraph would normally be replaced by an overview of a specific course, and could include information from the [Berkeley Academic Guide](https://guide.berkeley.edu/courses/stat/).
+Applied statistics and machine learning, focusing on answering scientific questions using data, the data science life cycle, critical thinking, reasoning, methodology, and trustworthy and reproducible computational practice. Hands-on-experience in open-ended data labs, using programming languages such as R and Python. Emphasis on understanding and examining the assumptions behind standard statistical models and methods and the match between the assumptions and the scientific question. Exploratory data analysis. Model formulation, fitting, model testing and validation, interpretation, and communication of results. Methods, including linear regression and generalizations, decision trees, random forests, simulation, and randomization methods.
 
-When instantiating this template, change:
+## Logistics
 
-  - `README.md`
-    - the `title` and `name` fields in the frontmatter
-    - the "Short Title of Class" heading to be the course name followed by its title in the Academic Guide, e.g. "Stat 555: Adventures in Class Websites"
-    - add an initial entry in the Offerings section
-    - the Overview section and Prequisites, based on content in the [Academic Guide](https://guide.berkeley.edu/courses/stat/)
-
-  - `_config.yml`
-    - Set `baseurl` to be the empty string, ''.
-    - Set `url` to be the institutional address, e.g. https://stat555.stat.berkeley.edu
-
-## Goals
-
-- **Do** list some goals for the course here.
-
-- **Or do not** list some goals.
-
-- **Decide** if this section is relevant.
+Three hours of lecture and two hours of laboratory per week. 
 
 ## Prerequisites
-While we are working to make this class widely accessible, we currently require the following (or equivalent) prerequisites:
 
-1. **Name of First Class:** Stat 555 covers important things.
-
-1. **Some Other Class:** Stat 777 covers other topics.
+Linear algebra, calculus, upper division probability and statistics, and familiarity with high-level programming languages. Statistics 133, 134, and 135 recommended. 
